@@ -12,7 +12,6 @@ There are a few ways to contribute to this project:
 
 Please follow these guidelines to help maintain consistency and quality across all contributions.
 
----
 
 ### 1. Submitting a New Problem Statement
 
