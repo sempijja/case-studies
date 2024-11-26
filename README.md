@@ -30,6 +30,15 @@ To contribute a new problem statement, please make sure it fits the general form
 | Health and Wellness          | Brief description of the issue and its impact.            | Example 1, Example 2, Example 3 | [Add link](#)       |
 ```
 
+
+```
+.phone-info h4 span a {
+  color: #fff;
+  font-size: 15px;
+  font-weight: 400;
+}
+```
+
 #### Steps to Submit:
 1. **Fork the Repository**: Click on the "Fork" button at the top of this page to create your copy of this repository.
 2. **Clone Your Fork**: Clone your forked repository to your local machine.
